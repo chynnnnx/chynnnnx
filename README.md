@@ -1,5 +1,6 @@
 # Hi, I'm Cheenee Mae Dimla
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-0078D7?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
