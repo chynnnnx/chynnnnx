@@ -28,20 +28,6 @@ I’m a software developer passionate about building practical applications acro
 - Email: SendGrid, Brevo  
 - Reporting: ClosedXML (Excel), PDF generation  
 - Others: Visual Studio, NetBeans, Git, GitHub
-
----
-
-## Featured Projects
-
-- **HRMS (Human Resource Management System)** – PHP & MySQL for managing employee data, attendance, payslip, and leave.  
-- **Coffee Management System** – Java (NetBeans) application for inventory, sales, and reporting.  
-- **Book Borrowing System** – WinForms (C#) app to manage library books, borrowers, and transactions.  
-- **Journal System** – WinForms (C#) app for tracking journal entries and reports.  
-- **Repair Management System** – Blazor and ASP.NET Core web app for repair requests, statuses, and customer data.  
-- **Student Allowance Tracker** – Blazor and ASP.NET Core web app to track student allowances, payments, and balances.  
-- **COMLAB Accountability Slip (Capstone Project)** – Blazor and ASP.NET Core and WPF project for managing computer lab equipment accountability.  
-- **Email & Reporting Integration** – Implemented email notifications (SendGrid/Brevo), Excel reports (ClosedXML), and PDF generation across multiple projects.
-
 ---
 
 ## Tech Stack
