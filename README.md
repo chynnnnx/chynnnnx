@@ -32,19 +32,6 @@ I build full-stack applications with .NET, Angular, and Blazor — from desktop 
 
 ---
 
-## Projects
-
-| Project | Stack |
-|---|---|
-| **Applica** — Job Hunt Tracker | ASP.NET Core 9, Angular 21, PostgreSQL, EF Core, CQRS/MediatR, JWT, PrimeNG |
-| **Repair Management System** | ASP.NET Core Web API, Blazor, EF Core, MSSQL Server |
-| **Computer Accountability Slip** *(Capstone)* | ASP.NET Core Web API, Blazor, MudBlazor, EF Core |
-| **Student Allowance Tracker** | ASP.NET Core Web API, Blazor, EF Core, Tailwind CSS |
-| **Book Borrowing System** | .NET WinForms, MSSQL Server, EF Core |
-| **HR, Payroll & Attendance** *(Academic)* | PHP |
-
----
-
 ## Certification
 
 [Foundational C# with Microsoft](https://freecodecamp.org/certification/cheeneemae/foundational-c-sharp-with-microsoft) — FreeCodeCamp
