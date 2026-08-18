@@ -77,19 +77,6 @@ Most of my projects start as something I want for myself, then grow into somethi
 
 <br />
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chynnnnx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chynnnnx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=C9D1D9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chynnnnx&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" />
-
-</div>
-
-<br />
-
 <div align="center">
 
 <picture>
