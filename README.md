@@ -90,8 +90,6 @@ Most of my projects start as something I want for myself, then grow into somethi
 
 <br />
 
-## Contribution Snake
-
 <div align="center">
 
 <picture>
