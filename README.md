@@ -4,8 +4,10 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dot-net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-68217A?style=flat&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -20,9 +22,9 @@ I build full-stack applications with .NET, Angular, and Blazor — from desktop 
 
 ## Tech Stack
 
-**Languages:** C#, SQL, HTML, CSS, TypeScript, PHP
+**Languages:** C#, SQL, HTML, CSS, TypeScript, PHP, Dart
 
-**Frameworks:** WinForms, ASP.NET Core, Blazor, Angular, Laravel, React
+**Frameworks:** WinForms, WPF, ASP.NET Core, Blazor, Angular, Laravel, React, Flutter
 
 **UI:** MudBlazor, Tailwind CSS
 
